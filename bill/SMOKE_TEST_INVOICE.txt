@@ -1,0 +1,2 @@
+Invoice: SMOKE_TEST
+Total: 0
